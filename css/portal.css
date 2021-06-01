@@ -28,6 +28,9 @@ main.wrapper {
 
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
+    width: 500px;
+    height: auto;
+    overflow: auto;
 }
 
 h2,h3 {
